@@ -8,7 +8,7 @@
 // (!)Important(!): В Windows CMD need UTF-8 to display emoji use: chcp 65001
 //
 // Build (Windows / MinGW g++):
-//   g++ -std=c++17 -O2 -Wall -Wextra -pedantic task1_lesson6_9_full_logs_tail_review.cpp -o task6_logs
+//   g++ -std=c++17 -O2 -Wall -Wextra -pedantic task1_lesson6_9_full_logs_tail_review(emoji).cpp -o task6_logs
 // Run:
 //   task6_logs.exe
 // ===============================================================
