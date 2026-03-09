@@ -1,3 +1,4 @@
+C++ • Data Structures • Singly Linked List • Iterators • Exception Safety
 ---
 
 # 🧩 Singly Linked List — Insert / Erase (Lesson 6_9)
